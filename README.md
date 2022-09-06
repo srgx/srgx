@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @srgx
 - 👀 I’m interested in programming languages
-- 🌱 I’m currently learning Linux command line
+- 🌱 I’m currently learning Latex
 - 💞️ I’m looking to collaborate on something
 - 📫 How to reach me - <srgxgrs@gmail.com>
 
