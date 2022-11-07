@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @srgx
-- 👀 I’m interested in programming languages
+- 👀 I’m interested in nothing
 - 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on something
+- 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me - <srgxgrs@gmail.com>
 
 <!---
